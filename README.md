@@ -3,7 +3,7 @@
 Dashboard desenvolvido durante o curso (React e TypeScript: desenvolvendo um Dashboard) em **ReactJs** com **TypeScript** inteiramente componentizado com **componentes puros**.
 
 <div align="center" >
-  <img src="./docs/assets/minhacarteirapreview.gif">
+  <img src="https://github.com/PedroHenrique18/My-Wallet/blob/main/docs/minhacarteirapreview.gif">
 </div>
 
 
@@ -15,7 +15,7 @@ Não há banco de dados. Os dados são carregados de 2 arquivos que contém arra
 ### Layout & Componentes Responsivos
 
 <div align="center" >
-  <img src="./docs/assets/resposiveview.png">
+  <img src="https://github.com/PedroHenrique18/My-Wallet/blob/main/docs/resposiveview.png">
 </div>
 
 ### Layout & Componentes Responsivos
