@@ -15,7 +15,7 @@ Não há banco de dados. Os dados são carregados de 2 arquivos que contém arra
 ### Layout & Componentes Responsivos
 
 <div align="center" >
-  <img src="https://github.com/PedroHenrique18/My-Wallet/blob/main/docs/resposiveview.png">
+  <img src="https://github.com/PedroHenrique18/My-Wallet/blob/main/docs/resposiveview.jpeg">
 </div>
 
 ### Layout & Componentes Responsivos
