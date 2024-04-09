@@ -1,28 +1,23 @@
+# Dashboard - React and TypeScript
 
-
-Dashboard desenvolvido durante o curso (React e TypeScript: desenvolvendo um Dashboard) em **ReactJs** com **TypeScript** inteiramente componentizado com **componentes puros**.
+This is a dashboard developed during the course "React and TypeScript: Developing a Dashboard" using **ReactJs** with **TypeScript**, entirely componentized with **pure components**.
 
 <div align="center" >
   <img src="https://github.com/PedroHenrique18/My-Wallet/blob/main/docs/minhacarteirapreview.gif">
 </div>
 
+There is no database. The data is loaded from 2 files that contain arrays simulating data repositories.
 
-
-
-Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados.
-
-
-### Layout & Componentes Responsivos
+### Layout & Responsive Components
 
 <div align="center" >
   <img src="https://github.com/PedroHenrique18/My-Wallet/blob/main/docs/resposiveview.jpeg">
 </div>
 
-### Layout & Componentes Responsivos
+### Libraries Used
 
-- [x] Para os gráficos, foi utilizada a bibliteca [**Recharts**](http://recharts.org/en-US) que é opensource.
-- [x] Para efeito de número crescendo eu utilizei o [**React CountUp**](https://www.npmjs.com/package/react-countup).
-
+- [x] **Recharts**: Open-source library used for charts. ([Recharts](http://recharts.org/en-US))
+- [x] **React CountUp**: Used for number increment effect. ([React CountUp](https://www.npmjs.com/package/react-countup))
 
 <div align="center">
   <small>Pedro Henrique Bezerra Fernandes - 2023</small>
